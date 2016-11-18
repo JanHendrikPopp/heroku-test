@@ -81,7 +81,7 @@
                         <id>start</id>
                     </execution>
                     <execution>
-                        <id>start</id>
+                        <id>stop</id>
                     </execution>
                 </executions>
             </plugin>
