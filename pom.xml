@@ -38,7 +38,7 @@
         <pluginRepository>
             <id>projectodd-snapshots</id>
             <name>Project:odd Snapshots from CI</name>
-            <url>https://repository-projectodd.forge.cloudbees.com/snapshot/<url>
+            <url>https://repository-projectodd.forge.cloudbees.com/snapshot</url>
             <releases>
                 <enabled>false</enabled>
             </releases>
