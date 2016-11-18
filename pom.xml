@@ -92,7 +92,7 @@
         <dependency>
             <groupId>org.wildfly.swarm</groupId>
             <artifactId>keycloak-server-service</artifactId>
-            <version>${version.wildfly-swarm}</version>
+            <version>1.0.0.CR2</version>
         </dependency>
         <dependency>
             <groupId>org.postgresql</groupId>
