@@ -62,6 +62,18 @@
                                 <goal>package</goal>
                             </goals>
                         </execution>
+                        <execution>
+                            <id>start</id>
+                            <goals>
+                                <goal>start</goal>
+                            </goals>
+                        </execution>
+                        <execution>
+                            <id>start</id>
+                            <goals>
+                                <goal>start</goal>
+                            </goals>
+                        </execution>
                     </executions>
                 </plugin>
             </plugins>
@@ -81,7 +93,7 @@
                         <id>start</id>
                     </execution>
                     <execution>
-                        <id>stop</id>
+                        <id>start</id>
                     </execution>
                 </executions>
             </plugin>
